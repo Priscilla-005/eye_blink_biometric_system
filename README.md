@@ -98,9 +98,3 @@ python blink_communication.py
 - Support for additional gestures (e.g., eyebrow raise, head tilt) as extra control channels
 - Logging/analytics for clinical or accessibility research use
 - Packaging as a standalone executable for non-technical end users
-
----
-
-## 📄 License
-
-Specify your preferred license here (e.g., MIT).
